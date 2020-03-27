@@ -1,5 +1,3 @@
-# zacfos-skin-doc
-
 # **ZAC FOS's Skin Overview/List**
 ### This will always be kept up-to-date. (Current Revision: 0.1, 27th March 2020)
 
