@@ -1,5 +1,5 @@
 # **ZAC FOS's Skin Overview/List**
-### This will always be kept up-to-date. (Current Revision: 0.1, 09th May 2020)
+### This will always be kept up-to-date. (Current Revision: 0.2, 09th May 2020)
 
 * [**ZAC FOS Friend's Discord Server**](https://discord.gg/kbav6BW)  
 * [**ZAC FOS's Livestream**](https://twitch.tv/zacfos)
