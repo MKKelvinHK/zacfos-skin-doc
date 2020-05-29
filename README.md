@@ -1,5 +1,5 @@
 # **ZAC FOS's Skin Overview/List**
-### This will always be kept up-to-date. (Current Revision: 0.4, 24th May 2020)
+### This will always be kept up-to-date. (Current Revision: 0.5, 29th May 2020)
 
 * [**ZAC FOS Friend's Discord Server**](https://discord.gg/kbav6BW)  
 * [**ZAC FOS's Livestream**](https://twitch.tv/zacfos)
@@ -7,8 +7,11 @@
 The list is maintained by **MKKelvinHK is dead#6969**. If anything is broken or missing, please DM me on Discord. Thank you!  
 The skins are **in order!** from newest to oldest.  
 
+## [**Hayate X Nana (Optimized)**](http://www.mediafire.com/file/08kfpug9wt0aial/Hayate_X_Nana_%2528Optimized%2529.osk/file)
+![](https://i.imgur.com/YpX1664.jpg)
+
 ## [**Hayate X Nana**](http://www.mediafire.com/file/efqz9lm96y73o8o/Hayate_X_Nana.osk/file)
-![](https://i.imgur.com/)
+![](https://i.imgur.com/ER6M4nr.jpg)
 
 ## [**Operation Villa 16:9**](http://www.mediafire.com/file/0k58fbi6ljp0g7t/Operation_Villa_16-9.osk/file)
 ![](https://i.imgur.com/e6RFz14.jpg)
