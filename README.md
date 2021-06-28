@@ -1,10 +1,10 @@
 # **ZAC FOS's Skin Overview/List**
-### This will always be kept up-to-date. (Current Revision: 1.2, 20th June 2020)
+### This will always be kept up-to-date. (Current Revision: 1.3, 28th June 2021)
 
 * [**ZAC FOS Friend's Discord Server**](https://discord.gg/kbav6BW)  
 * [**ZAC FOS's Livestream**](https://twitch.tv/zacfos)
 
-The list is maintained by **MKKelvinHK is tired#8208**. If anything is broken or missing, please DM me on Discord. Thank you!  
+The list is maintained by **MKKelvinHK#8208**. If anything is broken or missing, please DM me on Discord. Thank you!  
 The skins are **in order!** from newest to oldest.  
 
 ## [**Hayate X Nana (Optimized)**](http://www.mediafire.com/file/08kfpug9wt0aial/Hayate_X_Nana_%2528Optimized%2529.osk/file)
