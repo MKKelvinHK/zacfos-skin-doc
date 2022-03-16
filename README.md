@@ -1,5 +1,5 @@
 # **ZAC FOS's Skin Overview/List**
-### This will always be kept up-to-date. (Current Revision: 1.3, 28th June 2021)
+### This will always be kept up-to-date. (Current Revision: 1.4, 16th March 2022)
 
 * [**ZAC FOS Friend's Discord Server**](https://discord.gg/kbav6BW)  
 * [**ZAC FOS's Livestream**](https://twitch.tv/zacfos)
@@ -18,3 +18,6 @@ The skins are **in order!** from newest to oldest.
 
 ## [**Narukiko - Hisakawa Hayate (久川 颯)**](http://www.mediafire.com/file/8j7uscgyc1n0wc0/-_%2523_Narukiko_-_Hisakawa_Hayate_%2528%25E4%25B9%2585%25E5%25B7%259D_%25E9%25A2%25AF%2529_-.osk/file)
 ![](https://i.imgur.com/IS5aESR.jpg)
+
+## [**ZAC FOS**](https://www.mediafire.com/file/bqg98k4nbvxpuyw/ZAC_FOS.osk/file)
+~[](https://i.imgur.com/J2aujeE.png)
