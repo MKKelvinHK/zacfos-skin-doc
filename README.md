@@ -20,4 +20,4 @@ The skins are **in order!** from newest to oldest.
 ![](https://i.imgur.com/IS5aESR.jpg)
 
 ## [**ZAC FOS**](https://www.mediafire.com/file/bqg98k4nbvxpuyw/ZAC_FOS.osk/file)
-~[](https://i.imgur.com/J2aujeE.png)
+![](https://i.imgur.com/J2aujeE.png)
