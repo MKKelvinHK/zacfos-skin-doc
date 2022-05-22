@@ -1,5 +1,5 @@
-# **ZAC FOS's Skin Overview/List**
-### This will always be kept up-to-date. (Current Revision: 1.4, 16th March 2022)
+# **ZAC FOS's Skin Overview/List (Discontinued)**
+### This will **NOT** be up-to-date. (Last Version: 1.4, 16th March 2022)
 
 * [**ZAC FOS Friend's Discord Server**](https://discord.gg/kbav6BW)  
 * [**ZAC FOS's Livestream**](https://twitch.tv/zacfos)
